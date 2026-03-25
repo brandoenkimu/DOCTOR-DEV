@@ -51,7 +51,6 @@ DOCTOR-DEV/
 ├── config.py # Configuration settings
 └── README.md # This file
 
-text
 
 ---
 
