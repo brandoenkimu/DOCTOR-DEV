@@ -152,7 +152,7 @@ Author: Brandon Kimutai (brandoenkimu)
 
 University: Kirinyaga University
 
-Email: brandoenkimu@example.com
+Email: bentelybrandoen@gmail.com
 
 GitHub: brandoenkimu/DOCTOR-DEV
 
