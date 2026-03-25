@@ -1,6 +1,6 @@
 # DOCTOR-DEV – Hospital Management System
 
-A full‑featured Clinic Management System built with **Python CGI** and **SQLite**. This system allows patients to book appointments, doctors to manage their schedules, and administrators to oversee all operations. It was developed as part of the **SSE 2304 Server‑Side Programming** coursework at Kirinyaga University.
+A full‑featured Clinic Management System built with **Python CGI** and **SQL**. This system allows patients to book appointments, doctors to manage their schedules, and administrators to oversee all operations. It was developed as part of the **SSE 2304 Server‑Side Programming** coursework at Kirinyaga University.
 
 ---
 
